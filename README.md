@@ -1,5 +1,5 @@
 # paperClassification
-将论文按照期刊和专题进行分类，便于大家查阅与下载
+将论文按照期刊和专题进行分类，便于大家查阅与下载,代码同步在github和gitee上
 
 ## [专题分类](#thematic)
 <table>
