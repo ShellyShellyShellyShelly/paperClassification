@@ -38,3 +38,7 @@
 1. **Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
 
     *Alessandro Sperduti and Antonina Starita.*
+
+1. **Graphical-Based Learning Environments for Pattern Recognition.** SSPR/SPR 2004. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-540-27868-9_4.pdf)
+
+    *Franco Scarselli, Ah Chung Tsoi, Marco Gori, Markus Hagenbuchner.*
