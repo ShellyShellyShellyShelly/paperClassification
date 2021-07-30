@@ -32,9 +32,9 @@
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
 
 
-## [Models](#content)   
+## [Models](#thematic)   
 
-### [Basic Models](#content)
+### [Basic Models](#thematic)
 1. **Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
 
     *Alessandro Sperduti and Antonina Starita.*
